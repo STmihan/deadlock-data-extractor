@@ -1,0 +1,3 @@
+[submodule "deadlockery"]
+	path = deadlockery
+	url = https://github.com/ouwou/deadlockery.git
