@@ -13,21 +13,25 @@
         "image": "heroes/inferno.png",
         "abilities": [
             {
+                "id": 491391007,
                 "name": "ability_incendiary_projectile",
                 "image": "abilities/inferno_molotov.png",
                 "localization": "Catalyst"
             },
             {
+                "id": 3516947824,
                 "name": "ability_flame_dash",
                 "image": "abilities/inferno_dash.png",
                 "localization": "Flame Dash"
             },
             {
+                "id": 1593133799,
                 "name": "ability_afterburn",
                 "image": "abilities/inferno_deflect.png",
                 "localization": "Afterburn"
             },
             {
+                "id": 1142270357,
                 "name": "ability_fire_bomb",
                 "image": "abilities/inferno_bomb.png",
                 "localization": "Concussive Combustion"
@@ -41,21 +45,25 @@
         "image": "heroes/gigawatt.png",
         "abilities": [
             {
+                "id": 1065103387,
                 "name": "citadel_ability_lightning_ball",
                 "image": "abilities/giga_ball.png",
                 "localization": "Lightning Ball"
             },
             {
+                "id": 1074714947,
                 "name": "citadel_ability_static_charge",
                 "image": "abilities/giga_static.png",
                 "localization": "Apply a charge to a target enemy hero. After a short duration, the static charge <span class=\\"
             },
             {
+                "id": 539192269,
                 "name": "ability_power_surge",
                 "image": "abilities/giga_chain.png",
                 "localization": "Power Surge"
             },
             {
+                "id": 2061574352,
                 "name": "citadel_ability_storm_cloud",
                 "image": "abilities/giga_storm.png",
                 "localization": "Storm Cloud"
@@ -69,21 +77,25 @@
         "image": "heroes/hornet.png",
         "abilities": [
             {
+                "id": 537527508,
                 "name": "citadel_ability_hornet_chain",
                 "image": "abilities/pestilence/pestilence_chain.png",
                 "localization": "Stake"
             },
             {
+                "id": 1796564033,
                 "name": "citadel_ability_hornet_leap",
                 "image": "abilities/wasp_flight.png",
                 "localization": "Flight"
             },
             {
+                "id": 2048438176,
                 "name": "citadel_ability_hornet_sting",
                 "image": "abilities/hornet/hornet_crow.png",
                 "localization": "Crow Familiar"
             },
             {
+                "id": 775377419,
                 "name": "citadel_ability_hornet_snipe",
                 "image": "abilities/hornet/hornet_assassinate.png",
                 "localization": "Assassinate"
@@ -97,21 +109,25 @@
         "image": "heroes/spectre.png",
         "abilities": [
             {
+                "id": 715325746,
                 "name": "ability_blood_bomb",
                 "image": "abilities/spectre/blood_bomb.png",
                 "localization": "Essence Bomb"
             },
             {
+                "id": 218284420,
                 "name": "ability_life_drain",
                 "image": "abilities/spectre/life_drain.png",
                 "localization": "Life Drain"
             },
             {
+                "id": 3230530872,
                 "name": "ability_blood_shards",
                 "image": "abilities/haze/haze_sleep_dagger.png",
                 "localization": "Malice"
             },
             {
+                "id": 1307289689,
                 "name": "ability_health_swap",
                 "image": "abilities/spectre/blood_exchange.png",
                 "localization": "Soul Exchange"
@@ -125,21 +141,25 @@
         "image": "heroes/bull.png",
         "abilities": [
             {
+                "id": 4072270083,
                 "name": "citadel_ability_bull_heal",
                 "image": "abilities/bull_drain.png",
                 "localization": "Siphon Life"
             },
             {
+                "id": 2824119765,
                 "name": "citadel_ability_bull_charge",
                 "image": "abilities/bull_charge.png",
                 "localization": "Shoulder Charge"
             },
             {
+                "id": 715762406,
                 "name": "citadel_ability_passive_beefy",
                 "image": "abilities/bull_beef.png",
                 "localization": "Infernal Resilience"
             },
             {
+                "id": 509856396,
                 "name": "citadel_ability_bull_leap",
                 "image": "abilities/bull_jump.png",
                 "localization": "Seismic Impact"
@@ -153,21 +173,25 @@
         "image": "heroes/wraith.png",
         "abilities": [
             {
+                "id": 1999680326,
                 "name": "citadel_ability_card_toss",
                 "image": "abilities/wraith_card_trick.png",
                 "localization": "Card Trick"
             },
             {
+                "id": 4147641675,
                 "name": "citadel_ability_projectmind",
                 "image": "abilities/wraith_teleport.png",
                 "localization": "Project Mind"
             },
             {
+                "id": 1842576017,
                 "name": "citadel_ability_wraith_rapidfire",
                 "image": "abilities/wraith_aura.png",
                 "localization": "Full Auto"
             },
             {
+                "id": 2981692841,
                 "name": "citadel_ability_psychic_lift",
                 "image": "abilities/wraith_lift.png",
                 "localization": "Telekinesis"
@@ -181,21 +205,25 @@
         "image": "heroes/engineer.png",
         "abilities": [
             {
+                "id": 3133377790,
                 "name": "citadel_ability_shieldedsentry",
                 "image": "abilities/engineer_turret.png",
                 "localization": "Mini Turret"
             },
             {
+                "id": 2142734020,
                 "name": "citadel_ability_mobile_resupply",
                 "image": "abilities/engineer_resupply.png",
                 "localization": "Medicinal Specter"
             },
             {
+                "id": 1725685134,
                 "name": "citadel_ability_fissure_wall",
                 "image": "abilities/engineer_fissure_2.png",
                 "localization": "Spectral Wall"
             },
             {
+                "id": 3503044146,
                 "name": "citadel_ability_rocket_barrage",
                 "image": "abilities/engineer_rockets.png",
                 "localization": "Heavy Barrage"
@@ -209,21 +237,25 @@
         "image": "heroes/chrono.png",
         "abilities": [
             {
+                "id": 58655583,
                 "name": "citadel_ability_chrono_pulse_grenade",
                 "image": "abilities/chrono/chrono_time_bomb.png",
                 "localization": "Pulse Grenade"
             },
             {
+                "id": 1366719170,
                 "name": "citadel_ability_chrono_time_wall",
                 "image": "abilities/chrono/chrono_time_wall.png",
                 "localization": "Time Wall"
             },
             {
+                "id": 1128670012,
                 "name": "citadel_ability_chrono_kinetic_carbine",
                 "image": "abilities/duo/duo_attack.png",
                 "localization": "Kinetic Carbine"
             },
             {
+                "id": 2917891787,
                 "name": "citadel_ability_chrono_swap",
                 "image": "abilities/chrono/chrono_swap.png",
                 "localization": "Paradoxical Swap"
@@ -237,21 +269,25 @@
         "image": "heroes/sumo.png",
         "abilities": [
             {
+                "id": 3760705623,
                 "name": "citadel_ability_stomp",
                 "image": "abilities/sumo/sumo_stomp.png",
                 "localization": "Kinetic Pulse"
             },
             {
+                "id": 2031714424,
                 "name": "citadel_ability_void_sphere",
                 "image": "abilities/sumo/sumo_quantum.png",
                 "localization": "Quantum Entanglement"
             },
             {
+                "id": 492030745,
                 "name": "citadel_ability_nikuman",
                 "image": "abilities/sumo/sumo_pork_bun.png",
                 "localization": "Rejuvenating Aurora"
             },
             {
+                "id": 249410288,
                 "name": "citadel_ability_self_vacuum",
                 "image": "abilities/sumo/sumo_vacuum.png",
                 "localization": "Singularity"
@@ -265,21 +301,25 @@
         "image": "heroes/kelvin.png",
         "abilities": [
             {
+                "id": 18921423,
                 "name": "ability_ice_grenade",
                 "image": "abilities/kelvin/freezing_grenade.png",
                 "localization": "Frost Grenade"
             },
             {
+                "id": 1963397252,
                 "name": "ability_icepath",
                 "image": "abilities/kelvin/ice_path.png",
                 "localization": "Ice Path"
             },
             {
+                "id": 2351041382,
                 "name": "ability_icebeam",
                 "image": "abilities/kelvin/ice_beam.png",
                 "localization": "Freezing"
             },
             {
+                "id": 3826390464,
                 "name": "ability_ice_dome",
                 "image": "abilities/kelvin/frozen_shelter.png",
                 "localization": "Frozen Shelter"
@@ -293,21 +333,25 @@
         "image": "heroes/haze.png",
         "abilities": [
             {
+                "id": 2948410412,
                 "name": "ability_sleep_dagger",
                 "image": "abilities/haze/haze_sleep_dagger.png",
                 "localization": "Sleep Dagger"
             },
             {
+                "id": 2414191464,
                 "name": "ability_smoke_bomb",
                 "image": "abilities/haze/haze_smoke_bomb.png",
                 "localization": "Smoke Bomb"
             },
             {
+                "id": 1080948381,
                 "name": "ability_stacking_damage",
                 "image": "abilities/haze/haze_fixation.png",
                 "localization": "Fixation"
             },
             {
+                "id": 731943444,
                 "name": "ability_bullet_flurry",
                 "image": "abilities/haze/haze_bullet_flurry.png",
                 "localization": "Bullet Dance"
@@ -321,21 +365,25 @@
         "image": "heroes/astro.png",
         "abilities": [
             {
+                "id": 0,
                 "name": "ability_explosive_barrel",
                 "image": "abilities/inferno_bomb_v2.png",
                 "localization": "Powder Keg"
             },
             {
+                "id": 0,
                 "name": "ability_bounce_pad",
                 "image": "abilities/astro/bounce_pad.png",
                 "localization": "Bounce Pad"
             },
             {
+                "id": 0,
                 "name": "ability_hat_trick",
                 "image": "abilities/archer/archer_guided_arrow.png",
                 "localization": "Hat Trick"
             },
             {
+                "id": 0,
                 "name": "ability_gravity_lasso",
                 "image": "abilities/astro/gravity_lasso.png",
                 "localization": "Spirit Lasso"
@@ -349,21 +397,25 @@
         "image": "heroes/bebop.png",
         "abilities": [
             {
+                "id": 3089858203,
                 "name": "citadel_ability_uppercut",
                 "image": "abilities/bebop/bebop_uppercut.png",
                 "localization": "Exploding Uppercut"
             },
             {
+                "id": 2521902222,
                 "name": "citadel_ability_sticky_bomb",
                 "image": "abilities/bebop/bebop_sticky_bomb.png",
                 "localization": "Sticky Bomb"
             },
             {
+                "id": 1928108461,
                 "name": "citadel_ability_hook",
                 "image": "abilities/bebop/bebop_hook.png",
                 "localization": "Hook"
             },
             {
+                "id": 3832675871,
                 "name": "citadel_ability_bebop_laser_beam",
                 "image": "abilities/bebop/bebop_hyper_beam.png",
                 "localization": "Hyper Beam"
@@ -377,21 +429,25 @@
         "image": "heroes/nano.png",
         "abilities": [
             {
+                "id": 3377867107,
                 "name": "ability_perched_predator",
                 "image": "abilities/nano/nano_roller_bomb.png",
                 "localization": "Perched Predator"
             },
             {
+                "id": 0,
                 "name": "ability_nano_pounce",
                 "image": "abilities/nano/nano_warp.png",
                 "localization": "Siamese Strike"
             },
             {
+                "id": 0,
                 "name": "ability_nano_proximity_ritual",
                 "image": "abilities/nano/nano_proximity_ritual.png",
                 "localization": "Deadly Decor"
             },
             {
+                "id": 686480410,
                 "name": "ability_nano_ult_shadow",
                 "image": "abilities/nano/nano_tunnel_vision.png",
                 "localization": "Queen of Shadows"
@@ -405,21 +461,25 @@
         "image": "heroes/archer.png",
         "abilities": [
             {
+                "id": 548943648,
                 "name": "ability_charged_shot",
                 "image": "abilities/archer/archer_charged_shot.png",
                 "localization": "Charged Shot"
             },
             {
+                "id": 3452399392,
                 "name": "ability_power_jump",
                 "image": "abilities/archer/archer_power_jump.png",
                 "localization": "Rain of Arrows"
             },
             {
+                "id": 512733154,
                 "name": "ability_immobilize_trap",
                 "image": "abilities/archer/imobolize_trap.png",
                 "localization": "Immobilizing Trap"
             },
             {
+                "id": 3242902780,
                 "name": "ability_guided_arrow",
                 "image": "abilities/archer/archer_guided_arrow.png",
                 "localization": "Guided Owl"
@@ -433,21 +493,25 @@
         "image": "heroes/digger.png",
         "abilities": [
             {
+                "id": 1454278799,
                 "name": "ability_intimidate",
                 "image": "abilities/grappler/grappler_regen.png",
                 "localization": "Scorn"
             },
             {
+                "id": 2406758797,
                 "name": "ability_burrow",
                 "image": "abilities/grappler/grappler_spin.png",
                 "localization": "Burrow"
             },
             {
+                "id": 1914797280,
                 "name": "ability_throw_sand",
                 "image": "abilities/grappler/grappler_throw_sand.png",
                 "localization": "Sand Blast"
             },
             {
+                "id": 1917840730,
                 "name": "ability_ult_combo",
                 "image": "abilities/grappler/grappler_combo.png",
                 "localization": "Combo"
@@ -461,21 +525,25 @@
         "image": "heroes/shiv.png",
         "abilities": [
             {
+                "id": 2460791803,
                 "name": "citadel_ability_shiv_dagger",
                 "image": "abilities/shiv/shiv_toss.png",
                 "localization": "Serrated Knives"
             },
             {
+                "id": 1458044103,
                 "name": "citadel_ability_shiv_dash",
                 "image": "abilities/shiv/shiv_flash.png",
                 "localization": "Slice and Dice"
             },
             {
+                "id": 1537272748,
                 "name": "citadel_ability_shiv_defer_damage",
                 "image": "abilities/rutger/rutger_cheat_death.png",
                 "localization": "Bloodletting"
             },
             {
+                "id": 1835738020,
                 "name": "citadel_ability_shiv_killing_blow",
                 "image": "abilities/shiv/shiv_killing_blow.png",
                 "localization": "Killing Blow"
@@ -489,21 +557,25 @@
         "image": "heroes/tengu.png",
         "abilities": [
             {
+                "id": 4111222521,
                 "name": "citadel_ability_tengu_urn",
                 "image": "abilities/tengu/tengu_storm_flask.png",
                 "localization": "Kudzu Bomb"
             },
             {
+                "id": 1531378655,
                 "name": "citadel_ability_tangotether",
                 "image": "abilities/tengu/tengu_tether.png",
                 "localization": "Watcher's Covenant"
             },
             {
+                "id": 3642273386,
                 "name": "citadel_ability_tengu_stone_form",
                 "image": "abilities/tengu/tengu_stone_form.png",
                 "localization": "Stone Form"
             },
             {
+                "id": 1247583368,
                 "name": "citadel_ability_tengu_airlift",
                 "image": "abilities/tengu/tengu_lightning_crash.png",
                 "localization": "Air Drop"
@@ -517,21 +589,25 @@
         "image": "heroes/kali.png",
         "abilities": [
             {
+                "id": 4260284622,
                 "name": "citadel_ability_kali_spinning_blade",
                 "image": "abilities/kali/kali_oscilloblade.png",
                 "localization": "Occilioblade"
             },
             {
+                "id": 0,
                 "name": "citadel_ability_kali_disruptive_charge",
                 "image": "abilities/kali/kali_speed_burst.png",
                 "localization": "Pack Hunter"
             },
             {
+                "id": 21628267,
                 "name": "ability_kali_dust_storm",
                 "image": "abilities/kali/kali_whirling_blade.png",
                 "localization": "Dust Storm"
             },
             {
+                "id": 0,
                 "name": "ability_kali_trappers_bolo",
                 "image": "abilities/bebop/bebop_sticky_bomb.png",
                 "localization": "Trapper's Delight"
@@ -545,21 +621,25 @@
         "image": "heroes/warden.png",
         "abilities": [
             {
+                "id": 2656490109,
                 "name": "ability_warden_crowd_control",
                 "image": "abilities/warden/warden_crowd_control.png",
                 "localization": "Alchemical Flask"
             },
             {
+                "id": 2751689917,
                 "name": "ability_warden_high_alert",
                 "image": "abilities/warden/warden_high_alert.png",
                 "localization": "Willpower"
             },
             {
+                "id": 1656913918,
                 "name": "ability_warden_lock_down",
                 "image": "abilities/warden/warden_lock_down.png",
                 "localization": "Binding Word"
             },
             {
+                "id": 2702908623,
                 "name": "ability_warden_riot_protocol",
                 "image": "abilities/warden/warden_riot_protocol.png",
                 "localization": "Last Stand"
@@ -573,21 +653,25 @@
         "image": "heroes/yamato.png",
         "abilities": [
             {
+                "id": 3255651252,
                 "name": "citadel_ability_power_slash",
                 "image": "abilities/yamato/yamato_power_slash.png",
                 "localization": "Power Slash"
             },
             {
+                "id": 2566573207,
                 "name": "citadel_ability_flying_strike",
                 "image": "abilities/yamato/yamato_flying_strike.png",
                 "localization": "Flying Strike"
             },
             {
+                "id": 2366960452,
                 "name": "citadel_ability_healing_slash",
                 "image": "abilities/yamato/yamato_crimson_slash.png",
                 "localization": "Crimson Slash"
             },
             {
+                "id": 3319782965,
                 "name": "citadel_ability_infinity_slash",
                 "image": "abilities/yamato/yamato_blinding_steel.png",
                 "localization": "Shadow Transformation"
@@ -601,21 +685,25 @@
         "image": "heroes/lash.png",
         "abilities": [
             {
+                "id": 3561817145,
                 "name": "citadel_ability_lash_down_strike",
                 "image": "abilities/lash/lash_death_slam.png",
                 "localization": "Ground Strike"
             },
             {
+                "id": 2670099061,
                 "name": "citadel_ability_lash",
                 "image": "abilities/lash/lash_lash.png",
                 "localization": "Grapple"
             },
             {
+                "id": 519124136,
                 "name": "ability_lash_flog",
                 "image": "abilities/lash/lash_whip.png",
                 "localization": "Flog"
             },
             {
+                "id": 397010810,
                 "name": "citadel_ability_lash_ultimate",
                 "image": "abilities/lash/lash_counter_lash.png",
                 "localization": "Death Slam"
@@ -629,16 +717,19 @@
         "image": "heroes/viscous.png",
         "abilities": [
             {
+                "id": 3247040238,
                 "name": "viscous_goo_grenade",
                 "image": "abilities/viscous/viscous_goo_ball.png",
                 "localization": "Splatter"
             },
             {
+                "id": 3788152387,
                 "name": "viscous_restorative_goo",
                 "image": "abilities/viscous/viscous_restorative_goo.png",
                 "localization": "The Cube"
             },
             {
+                "id": 4206531918,
                 "name": "viscous_goo_bowling_ball",
                 "image": "abilities/viscous/viscous_goo_sphere.png",
                 "localization": "Goo Ball"
@@ -652,21 +743,25 @@
         "image": "heroes/gunslinger.png",
         "abilities": [
             {
+                "id": 2219528978,
                 "name": "gunslinger_rapid_fire",
                 "image": "abilities/sumo/sumo_stomp.png",
                 "localization": "Rapid Fire"
             },
             {
+                "id": 809682515,
                 "name": "gunslinger_rocket_launcher",
                 "image": "abilities/sumo/sumo_stomp.png",
                 "localization": "Rocket Launcher"
             },
             {
+                "id": 0,
                 "name": "gunslinger_tenacity",
                 "image": "abilities/sumo/sumo_stomp.png",
                 "localization": "Tenacity"
             },
             {
+                "id": 0,
                 "name": "gunslinger_sleep_bomb",
                 "image": "abilities/sumo/sumo_stomp.png",
                 "localization": "Sleep Bomb"
@@ -680,21 +775,25 @@
         "image": "heroes/yakuza.png",
         "abilities": [
             {
+                "id": 0,
                 "name": "yakuza_shakedown_target",
                 "image": "abilities/theboss/the_boss_shakedown.png",
                 "localization": "Shakedown"
             },
             {
+                "id": 0,
                 "name": "yakuza_kobun",
                 "image": "abilities/theboss/the_boss_hired_muscle.png",
                 "localization": "Hired Muscle"
             },
             {
+                "id": 0,
                 "name": "yakuza_protection_racket",
                 "image": "abilities/theboss/the_boss_protection_racket.png",
                 "localization": "Protection Racket"
             },
             {
+                "id": 0,
                 "name": "yakuza_setting_sun",
                 "image": "abilities/theboss/the_boss_setting_sun.png",
                 "localization": "Setting Sun"
@@ -708,21 +807,25 @@
         "image": "heroes/genericperson.png",
         "abilities": [
             {
+                "id": 0,
                 "name": "genericperson_ability_1",
                 "image": "abilities/genericperson/genericperson_ability_1.png",
                 "localization": "genericperson_ability_1"
             },
             {
+                "id": 0,
                 "name": "genericperson_ability_2",
                 "image": "abilities/genericperson/genericperson_ability_2.png",
                 "localization": "genericperson_ability_2"
             },
             {
+                "id": 0,
                 "name": "genericperson_ability_3",
                 "image": "abilities/genericperson/genericperson_ability_3.png",
                 "localization": "genericperson_ability_3"
             },
             {
+                "id": 1254152082,
                 "name": "genericperson_ability_4",
                 "image": "abilities/genericperson/genericperson_ability_4.png",
                 "localization": "genericperson_ability_4"
@@ -736,21 +839,25 @@
         "image": "heroes/tokamak.png",
         "abilities": [
             {
+                "id": 1564303265,
                 "name": "tokamak_hot_shot",
                 "image": "abilities/tokamak/tokamak_hot_shot.png",
                 "localization": "Hot Shot"
             },
             {
+                "id": 0,
                 "name": "tokamak_dying_star",
                 "image": "abilities/tokamak/tokamak_dying_star.png",
                 "localization": "Dying Star"
             },
             {
+                "id": 0,
                 "name": "tokamak_radiance",
                 "image": "abilities/tokamak/tokamak_blinding_radiance.png",
                 "localization": "Blinding Radiance"
             },
             {
+                "id": 0,
                 "name": "tokamak_crimson_cannon",
                 "image": "abilities/tokamak/tokamak_crimson_cannon.png",
                 "localization": "Pulse Cannon"
@@ -764,21 +871,25 @@
         "image": "heroes/wrecker.png",
         "abilities": [
             {
+                "id": 4062064977,
                 "name": "ability_wrecking_ball",
                 "image": "abilities/wrecker/wrecking_ball.png",
                 "localization": "Wrecking Ball"
             },
             {
+                "id": 208809857,
                 "name": "ability_wrecker_salvage",
                 "image": "abilities/wrecker/salvage.png",
                 "localization": "Consume"
             },
             {
+                "id": 0,
                 "name": "ability_scrap_blast",
                 "image": "abilities/wrecker/scrap_blast.png",
                 "localization": "Bio Blast"
             },
             {
+                "id": 0,
                 "name": "ability_wrecker_teleport",
                 "image": "abilities/wrecker/wrecking_crew.png",
                 "localization": "Astral Walk"
@@ -792,21 +903,25 @@
         "image": "heroes/rutger.png",
         "abilities": [
             {
+                "id": 4182904284,
                 "name": "rutger_rocket",
                 "image": "abilities/rutger/rutger_rocket_launcher.png",
                 "localization": "Rocket Launcher"
             },
             {
+                "id": 639385332,
                 "name": "rutger_force_field",
                 "image": "abilities/rutger/rutger_force_field.png",
                 "localization": "Force Field"
             },
             {
+                "id": 0,
                 "name": "rutger_cheat_death",
                 "image": "abilities/rutger/rutger_cheat_death.png",
                 "localization": "Cheat Death"
             },
             {
+                "id": 363299194,
                 "name": "rutger_pulse",
                 "image": "abilities/rutger/rutger_pulse.png",
                 "localization": "Pulse"
@@ -820,21 +935,25 @@
         "image": "heroes/synth.png",
         "abilities": [
             {
+                "id": 938149308,
                 "name": "synth_barrage",
                 "image": "abilities/synth/synth_barrage.png",
                 "localization": "Barrage"
             },
             {
+                "id": 1976701714,
                 "name": "synth_plasma_flux",
                 "image": "abilities/synth/synth_plasma_flux.png",
                 "localization": "Flying Cloak"
             },
             {
+                "id": 3747867012,
                 "name": "synth_pulse",
                 "image": "abilities/synth/synth_pulse.png",
                 "localization": "Enchanter's Satchel"
             },
             {
+                "id": 2954330093,
                 "name": "synth_affliction",
                 "image": "abilities/synth/synth_affliction.png",
                 "localization": "Affliction"
@@ -848,21 +967,25 @@
         "image": "heroes/thumper.png",
         "abilities": [
             {
+                "id": 348689004,
                 "name": "thumper_ability_1",
                 "image": "abilities/thumper/thumper_ability_1.png",
                 "localization": "Shatter Cannon"
             },
             {
+                "id": 2086284285,
                 "name": "thumper_ability_2",
                 "image": "abilities/thumper/thumper_ability_2.png",
                 "localization": "Spike Strip"
             },
             {
+                "id": 0,
                 "name": "thumper_ability_3",
                 "image": "abilities/thumper/thumper_ability_3.png",
                 "localization": "Badger Drone"
             },
             {
+                "id": 0,
                 "name": "thumper_ability_4",
                 "image": "abilities/thumper/thumper_ability_4.png",
                 "localization": "Vortex"
@@ -876,21 +999,25 @@
         "image": "heroes/mirage.png",
         "abilities": [
             {
+                "id": 1336069669,
                 "name": "mirage_tornado",
                 "image": "abilities/mirage/mirage_tornado.png",
                 "localization": "Tornado"
             },
             {
+                "id": 3733594387,
                 "name": "mirage_fire_beetles",
                 "image": "abilities/mirage/mirage_fire_beetles.png",
                 "localization": "Fire Beetles"
             },
             {
+                "id": 2221949202,
                 "name": "mirage_sand_phantom",
                 "image": "abilities/mirage/mirage_sand_phantom.png",
                 "localization": "Whirling Dervish"
             },
             {
+                "id": 0,
                 "name": "mirage_djinns_reach",
                 "image": "abilities/mirage/mirage_djinns_reach.png",
                 "localization": "Djinn's Reach"
@@ -904,21 +1031,25 @@
         "image": "heroes/slork.png",
         "abilities": [
             {
+                "id": 3295213753,
                 "name": "slork_riptide",
                 "image": "abilities/slork/slork_scald.png",
                 "localization": "Riptide"
             },
             {
+                "id": 1335487072,
                 "name": "slork_chomp",
                 "image": "abilities/slork/slork_chomp.png",
                 "localization": "Chomp"
             },
             {
+                "id": 0,
                 "name": "slork_last_breath",
                 "image": "abilities/slork/slork_current.png",
                 "localization": "Deep's Embrace"
             },
             {
+                "id": 599179891,
                 "name": "slork_ability_invis",
                 "image": "abilities/slork/slork_invis.png",
                 "localization": "Ambush Predator"
@@ -932,21 +1063,25 @@
         "image": "heroes/cadence.png",
         "abilities": [
             {
+                "id": 1157620447,
                 "name": "cadence_ability_anthem",
                 "image": "abilities/cadence/cadence_ability_1.png",
                 "localization": "Anthem"
             },
             {
+                "id": 421275722,
                 "name": "cadence_ability_silencecontraptions",
                 "image": "abilities/cadence/cadence_ability_2.png",
                 "localization": "Silence Contraptions"
             },
             {
+                "id": 957095276,
                 "name": "cadence_ability_lullaby",
                 "image": "abilities/cadence/cadence_ability_3.png",
                 "localization": "Lullaby"
             },
             {
+                "id": 599532073,
                 "name": "cadence_ability_crescendo",
                 "image": "abilities/cadence/cadence_ability_4.png",
                 "localization": "Crescendo"
@@ -960,21 +1095,25 @@
         "image": "heroes/targetdummy.png",
         "abilities": [
             {
+                "id": 3433393074,
                 "name": "targetdummy_ability_1",
                 "image": "abilities/targetdummy/targetdummy_ability_1.png",
                 "localization": "targetdummy_ability_1"
             },
             {
+                "id": 0,
                 "name": "targetdummy_ability_2",
                 "image": "abilities/targetdummy/targetdummy_ability_2.png",
                 "localization": "targetdummy_ability_2"
             },
             {
+                "id": 983726794,
                 "name": "targetdummy_ability_3",
                 "image": "abilities/targetdummy/targetdummy_ability_3.png",
                 "localization": "targetdummy_ability_3"
             },
             {
+                "id": 0,
                 "name": "targetdummy_ability_4",
                 "image": "abilities/targetdummy/targetdummy_ability_4.png",
                 "localization": "targetdummy_ability_4"
@@ -988,21 +1127,25 @@
         "image": "",
         "abilities": [
             {
+                "id": 0,
                 "name": "ability_charged_bomb",
                 "image": "abilities/bebop/bebop_sticky_bomb.png",
                 "localization": "ability_charged_bomb"
             },
             {
+                "id": 3875361929,
                 "name": "ability_bomber_ability02",
                 "image": "abilities/nano/nano_roller_bomb.png",
                 "localization": "ability_bomber_ability02"
             },
             {
+                "id": 4081662205,
                 "name": "ability_bomber_ability03",
                 "image": "abilities/nano/nano_roller_bomb.png",
                 "localization": "ability_bomber_ability03"
             },
             {
+                "id": 3232290270,
                 "name": "ability_bomber_ult",
                 "image": "abilities/nano/nano_tunnel_vision.png",
                 "localization": "ability_bomber_ult"

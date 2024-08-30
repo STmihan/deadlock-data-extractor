@@ -7,6 +7,7 @@ from extractors.heroes import dump_heroes
 from extractors.heroes_json import create_heroes_json
 from extractors.items_json import create_items_json
 from extractors.locs import dump_localization
+from extractors.stringmap import dump_stringmap
 from extractors.vdata import dump_vdata
 from extractors.items import dump_items
 
@@ -20,6 +21,7 @@ start_time = time.time()
 
 dump_localization()
 dump_vdata()
+dump_stringmap()
 dump_heroes()
 dump_abilities()
 create_heroes_json()

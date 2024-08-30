@@ -1,5 +1,6 @@
 [
     {
+        "id": 0,
         "name": "armor_upgrade_base",
         "localization": "armor_upgrade_base",
         "tier": 0,
@@ -7,6 +8,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "armor_upgrade_t1",
         "localization": "armor_upgrade_t1",
         "tier": 1,
@@ -14,6 +16,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "armor_upgrade_t2",
         "localization": "armor_upgrade_t2",
         "tier": 2,
@@ -21,6 +24,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "armor_upgrade_t3",
         "localization": "armor_upgrade_t3",
         "tier": 3,
@@ -28,6 +32,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "armor_upgrade_t4",
         "localization": "armor_upgrade_t4",
         "tier": 4,
@@ -35,6 +40,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "weapon_upgrade_base",
         "localization": "weapon_upgrade_base",
         "tier": 0,
@@ -42,6 +48,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "weapon_upgrade_t1",
         "localization": "weapon_upgrade_t1",
         "tier": 1,
@@ -49,6 +56,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "weapon_upgrade_t2",
         "localization": "weapon_upgrade_t2",
         "tier": 2,
@@ -56,6 +64,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "weapon_upgrade_t3",
         "localization": "weapon_upgrade_t3",
         "tier": 3,
@@ -63,6 +72,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "weapon_upgrade_t4",
         "localization": "weapon_upgrade_t4",
         "tier": 4,
@@ -70,6 +80,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "tech_upgrade_base",
         "localization": "tech_upgrade_base",
         "tier": 0,
@@ -77,6 +88,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "tech_upgrade_t1",
         "localization": "tech_upgrade_t1",
         "tier": 1,
@@ -84,6 +96,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "tech_upgrade_t2",
         "localization": "tech_upgrade_t2",
         "tier": 2,
@@ -91,6 +104,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "tech_upgrade_t3",
         "localization": "tech_upgrade_t3",
         "tier": 3,
@@ -98,6 +112,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "tech_upgrade_t4",
         "localization": "tech_upgrade_t4",
         "tier": 4,
@@ -105,6 +120,7 @@
         "image": ""
     },
     {
+        "id": 1548066885,
         "name": "upgrade_clip_size",
         "localization": "Basic Magazine",
         "tier": 1,
@@ -112,6 +128,7 @@
         "image": "items/mods_weapon/clip_size.png"
     },
     {
+        "id": 1009965641,
         "name": "upgrade_non_player_bonus",
         "localization": "Monster Rounds",
         "tier": 1,
@@ -119,6 +136,7 @@
         "image": "items/mods_weapon/reaper_rounds.png"
     },
     {
+        "id": 1248737459,
         "name": "upgrade_ammo_scavenger",
         "localization": "Ammo Scavenger",
         "tier": 1,
@@ -126,6 +144,7 @@
         "image": "items/mods_weapon/ammo_scavenger.png"
     },
     {
+        "id": 3535785353,
         "name": "upgrade_clip_size_fixed",
         "localization": "Extended Magazine",
         "tier": 2,
@@ -133,6 +152,7 @@
         "image": "items/mods_weapon/clip_size.png"
     },
     {
+        "id": 2861048274,
         "name": "upgrade_clip_size_fixed_t3",
         "localization": "Extra Large Magazine",
         "tier": 3,
@@ -140,6 +160,7 @@
         "image": ""
     },
     {
+        "id": 811521119,
         "name": "upgrade_chain_lightning",
         "localization": "Tesla Bullets",
         "tier": 3,
@@ -147,6 +168,7 @@
         "image": "items/mods_weapon/electrified_bullets.png"
     },
     {
+        "id": 0,
         "name": "upgrade_galvanic_storm",
         "localization": "Galvanic Storm",
         "tier": 4,
@@ -154,6 +176,7 @@
         "image": "items/mods_weapon/electrified_bullets.png"
     },
     {
+        "id": 2678489038,
         "name": "upgrade_hollow_point_rounds",
         "localization": "Hollow Point Ward",
         "tier": 1,
@@ -161,6 +184,7 @@
         "image": "items/mods_weapon/hollow_point.png"
     },
     {
+        "id": 2064029594,
         "name": "upgrade_pristine_emblem",
         "localization": "Pristine Emblem",
         "tier": 3,
@@ -168,6 +192,7 @@
         "image": "items/mods_weapon/pristine_emblem.png"
     },
     {
+        "id": 0,
         "name": "upgrade_stabilizer",
         "localization": "Stabilizer",
         "tier": 1,
@@ -175,6 +200,7 @@
         "image": "items/mods_weapon/stabilizer.png"
     },
     {
+        "id": 3077079169,
         "name": "upgrade_high_velocity_mag",
         "localization": "High-Velocity Mag",
         "tier": 1,
@@ -182,6 +208,7 @@
         "image": "items/mods_weapon/high_velocity_mag.png"
     },
     {
+        "id": 1437614329,
         "name": "upgrade_lifestrike_gauntlets",
         "localization": "Melee Lifesteal",
         "tier": 1,
@@ -189,6 +216,7 @@
         "image": "items/mods_weapon/lifestrike_gauntlets.png"
     },
     {
+        "id": 1342610602,
         "name": "upgrade_close_range",
         "localization": "Close Quarters",
         "tier": 1,
@@ -196,6 +224,7 @@
         "image": "items/mods_weapon/close_range.png"
     },
     {
+        "id": 3331811235,
         "name": "upgrade_long_range",
         "localization": "Long Range",
         "tier": 2,
@@ -203,6 +232,7 @@
         "image": "items/mods_weapon/long_range.png"
     },
     {
+        "id": 393974127,
         "name": "upgrade_slowing_bullets",
         "localization": "Slowing Bullets",
         "tier": 2,
@@ -210,6 +240,7 @@
         "image": "items/mods_weapon/slowing_bullets.png"
     },
     {
+        "id": 2037039379,
         "name": "upgrade_inhibitor",
         "localization": "Inhibitor",
         "tier": 4,
@@ -217,6 +248,7 @@
         "image": "items/mods_weapon/inhibitor.png"
     },
     {
+        "id": 0,
         "name": "upgrade_small_attack_speed",
         "localization": "Basic Fire Rate",
         "tier": 1,
@@ -224,6 +256,7 @@
         "image": "items/mods_weapon/fire_rate.png"
     },
     {
+        "id": 1144549437,
         "name": "upgrade_tech_defense_shredders",
         "localization": "Soul Shredder Bullets",
         "tier": 2,
@@ -231,6 +264,7 @@
         "image": "items/mods_weapon/tech_resist_shredder.png"
     },
     {
+        "id": 0,
         "name": "upgrade_attack_speed_1",
         "localization": "Fire Rate",
         "tier": 2,
@@ -238,6 +272,7 @@
         "image": "items/mods_weapon/fire_rate_plus.png"
     },
     {
+        "id": 0,
         "name": "upgrade_nearby_enemy_boost",
         "localization": "Adrenaline Rush",
         "tier": 3,
@@ -245,6 +280,7 @@
         "image": "items/mods_weapon/adrenaline_rush.png"
     },
     {
+        "id": 2108215830,
         "name": "upgrade_dps_aura",
         "localization": "Heroic Aura",
         "tier": 3,
@@ -252,6 +288,7 @@
         "image": "items/mods_weapon/bullet_damage_aura.png"
     },
     {
+        "id": 0,
         "name": "upgrade_armor_reduction_debuff",
         "localization": "Armor Piercing Rounds",
         "tier": 3,
@@ -259,6 +296,7 @@
         "image": "items/mods_weapon/armor_breaking_bullets.png"
     },
     {
+        "id": 775925321,
         "name": "upgrade_weapon_detention_ammo",
         "localization": "Detention Rounds",
         "tier": 4,
@@ -266,6 +304,7 @@
         "image": "items/mods_weapon/detention_rounds.png"
     },
     {
+        "id": 0,
         "name": "upgrade_height_advantage",
         "localization": "Height Advantage",
         "tier": 1,
@@ -273,6 +312,7 @@
         "image": "items/mods_weapon/height_advantage.png"
     },
     {
+        "id": 619484391,
         "name": "upgrade_targeted_silence",
         "localization": "Silence Glyph",
         "tier": 3,
@@ -280,6 +320,7 @@
         "image": "items/mods_weapon/targeted_silence.png"
     },
     {
+        "id": 1113837674,
         "name": "upgrade_proc_silence",
         "localization": "EMP Bullets",
         "tier": 2,
@@ -287,6 +328,7 @@
         "image": "items/mods_weapon/emp_bullets.png"
     },
     {
+        "id": 3133167885,
         "name": "upgrade_silencer",
         "localization": "Silencer",
         "tier": 4,
@@ -294,6 +336,7 @@
         "image": "items/mods_weapon/emp_bullets.png"
     },
     {
+        "id": 1503218332,
         "name": "upgrade_proc_disarm",
         "localization": "Disarming Bullets",
         "tier": 2,
@@ -301,6 +344,7 @@
         "image": "items/mods_tech/disarm.png"
     },
     {
+        "id": 1414319208,
         "name": "upgrade_berserker",
         "localization": "Berserker",
         "tier": 2,
@@ -308,6 +352,7 @@
         "image": "items/mods_weapon/berserker.png"
     },
     {
+        "id": 339443430,
         "name": "upgrade_fervor",
         "localization": "Frenzy",
         "tier": 4,
@@ -315,6 +360,7 @@
         "image": "items/mods_weapon/fervor.png"
     },
     {
+        "id": 1282141666,
         "name": "upgrade_siphon_bullets",
         "localization": "Siphon Bullets",
         "tier": 4,
@@ -322,6 +368,7 @@
         "image": "items/mods_weapon/siphon_bullets.png"
     },
     {
+        "id": 2010028405,
         "name": "upgrade_headshot_booster",
         "localization": "Headshot Booster",
         "tier": 1,
@@ -329,6 +376,7 @@
         "image": "items/mods_weapon/headshot_booster.png"
     },
     {
+        "id": 2152872419,
         "name": "upgrade_sharpshooter",
         "localization": "Sharpshooter",
         "tier": 3,
@@ -336,6 +384,7 @@
         "image": "items/mods_weapon/longshot.png"
     },
     {
+        "id": 0,
         "name": "upgrade_headhunter",
         "localization": "Headhunter",
         "tier": 3,
@@ -343,6 +392,7 @@
         "image": "items/mods_weapon/headhunter.png"
     },
     {
+        "id": 3884003354,
         "name": "upgrade_banshee_slugs",
         "localization": "Crippling Headshot",
         "tier": 4,
@@ -350,6 +400,7 @@
         "image": "items/mods_weapon/banshee_slugs.png"
     },
     {
+        "id": 184951197,
         "name": "upgrade_proc_tech_damage",
         "localization": "Magitech Rounds",
         "tier": 3,
@@ -357,6 +408,7 @@
         "image": "items/mods_tech/tech_imbued_bullets.png"
     },
     {
+        "id": 395867183,
         "name": "upgrade_crackshot",
         "localization": "Mystic Shot",
         "tier": 2,
@@ -364,6 +416,7 @@
         "image": "items/mods_weapon/explosive_bullets.png"
     },
     {
+        "id": 1396247347,
         "name": "upgrade_critshot",
         "localization": "Lucky Shot",
         "tier": 4,
@@ -371,6 +424,7 @@
         "image": "items/mods_weapon/crit_damage.png"
     },
     {
+        "id": 2095565695,
         "name": "upgrade_close_quarter_combat",
         "localization": "Point Blank",
         "tier": 3,
@@ -378,6 +432,7 @@
         "image": "items/mods_weapon/point_blank.png"
     },
     {
+        "id": 4284855775,
         "name": "upgrade_clip_size_2",
         "localization": "Big Clip",
         "tier": 2,
@@ -385,6 +440,7 @@
         "image": ""
     },
     {
+        "id": 0,
         "name": "upgrade_clip_size_3",
         "localization": "Extra Large Magazine",
         "tier": 3,
@@ -392,6 +448,7 @@
         "image": ""
     },
     {
+        "id": 3696726732,
         "name": "upgrade_toxic_bullets",
         "localization": "Toxic Bullets",
         "tier": 3,
@@ -399,6 +456,7 @@
         "image": "items/mods_weapon/serrated_bullets.png"
     },
     {
+        "id": 3791295884,
         "name": "upgrade_attack_speed_2",
         "localization": "Improved Fire Rate",
         "tier": 3,
@@ -406,6 +464,7 @@
         "image": "items/mods_weapon/fire_rate_plus_plus.png"
     },
     {
+        "id": 4190165534,
         "name": "upgrade_drum_magazine",
         "localization": "Drum Magazine",
         "tier": 3,
@@ -413,6 +472,7 @@
         "image": "items/mods_weapon/auto_reloader.png"
     },
     {
+        "id": 2480592370,
         "name": "upgrade_ricochet",
         "localization": "Ricochet",
         "tier": 4,
@@ -420,6 +480,7 @@
         "image": "items/mods_weapon/ricochet.png"
     },
     {
+        "id": 3633614685,
         "name": "upgrade_health",
         "localization": "Spirit Lifesteal",
         "tier": 1,
@@ -427,6 +488,7 @@
         "image": "items/mods_armor/health.png"
     },
     {
+        "id": 1448361452,
         "name": "upgrade_toughness_3",
         "localization": "Toughness",
         "tier": 2,
@@ -434,6 +496,7 @@
         "image": "items/mods_armor/base_armor.png"
     },
     {
+        "id": 3713423303,
         "name": "upgrade_bullet_armor",
         "localization": "Hunter's Aura",
         "tier": 2,
@@ -441,6 +504,7 @@
         "image": "items/mods_armor/bullet_armor.png"
     },
     {
+        "id": 223594321,
         "name": "upgrade_tech_armor",
         "localization": "Spirit Armor Reduction Aura",
         "tier": 2,
@@ -448,6 +512,7 @@
         "image": "items/mods_armor/tech_armor.png"
     },
     {
+        "id": 1575167590,
         "name": "upgrade_health_regen_1",
         "localization": "Health Regen",
         "tier": 1,
@@ -455,6 +520,7 @@
         "image": "items/mods_armor/health_regen.png"
     },
     {
+        "id": 499683006,
         "name": "upgrade_vampire",
         "localization": "Bullet Lifesteal",
         "tier": 2,
@@ -462,6 +528,7 @@
         "image": "items/mods_armor/health_stealing_bullets.png"
     },
     {
+        "id": 0,
         "name": "upgrade_double_jump",
         "localization": "Double-Jump",
         "tier": 1,
@@ -469,6 +536,7 @@
         "image": "items/mods_armor/double_jump.png"
     },
     {
+        "id": 0,
         "name": "upgrade_health_regen_aura",
         "localization": "Healing Aura",
         "tier": 3,
@@ -476,6 +544,7 @@
         "image": "items/mods_armor/health_regen_aura.png"
     },
     {
+        "id": 0,
         "name": "upgrade_combo_breaker",
         "localization": "Combo Breaker",
         "tier": 4,
@@ -483,6 +552,7 @@
         "image": "items/mods_armor/tech_purge.png"
     },
     {
+        "id": 1047818222,
         "name": "upgrade_debuff_reducer",
         "localization": "Debuff Reducer",
         "tier": 2,
@@ -490,6 +560,7 @@
         "image": "items/mods_armor/debuff_reducer.png"
     },
     {
+        "id": 3731635960,
         "name": "upgrade_reduce_debuff_duration",
         "localization": "Debuff Remover",
         "tier": 3,
@@ -497,6 +568,7 @@
         "image": "items/mods_armor/debuff_remover.png"
     },
     {
+        "id": 1825391146,
         "name": "upgrade_high_impact_armor",
         "localization": "High Impact Armor",
         "tier": 2,
@@ -504,6 +576,7 @@
         "image": "items/mods_armor/bullet_armor.png"
     },
     {
+        "id": 0,
         "name": "upgrade_slow_immunity",
         "localization": "Unstoppable - Deprecated",
         "tier": 2,
@@ -511,6 +584,7 @@
         "image": "items/mods_utility/sprint_booster.png"
     },
     {
+        "id": 0,
         "name": "upgrade_bullet_armor_2",
         "localization": "Improved Bullet Armor",
         "tier": 3,
@@ -518,6 +592,7 @@
         "image": "items/mods_armor/bullet_armor_plus.png"
     },
     {
+        "id": 0,
         "name": "upgrade_weapon_power_and_health_drain",
         "localization": "Overdrive",
         "tier": 2,
@@ -525,6 +600,7 @@
         "image": "items/mods_armor/overdrive.png"
     },
     {
+        "id": 1319649491,
         "name": "upgrade_active_bullet_shield",
         "localization": "Shield Rush",
         "tier": 4,
@@ -532,6 +608,7 @@
         "image": "items/mods_armor/bullet_shield.png"
     },
     {
+        "id": 0,
         "name": "upgrade_ablative_coat",
         "localization": "Ablative Coat",
         "tier": 4,
@@ -539,6 +616,7 @@
         "image": "items/mods_armor/bullet_shield.png"
     },
     {
+        "id": 2163598980,
         "name": "upgrade_tech_purge",
         "localization": "Improved Spirit Armor",
         "tier": 3,
@@ -546,6 +624,7 @@
         "image": "items/mods_armor/tech_purge.png"
     },
     {
+        "id": 3140772621,
         "name": "upgrade_improved_bullet_armor",
         "localization": "Improved Bullet Armor",
         "tier": 3,
@@ -553,6 +632,7 @@
         "image": "items/mods_armor/improved_bullet_armor.png"
     },
     {
+        "id": 1378931225,
         "name": "upgrade_metal_skin",
         "localization": "Metal Skin",
         "tier": 3,
@@ -560,6 +640,7 @@
         "image": "items/mods_armor/metal_skin.png"
     },
     {
+        "id": 2566692615,
         "name": "upgrade_healing_booster",
         "localization": "Healing Booster",
         "tier": 2,
@@ -567,6 +648,7 @@
         "image": "items/mods_armor/healing_booster.png"
     },
     {
+        "id": 3585132399,
         "name": "upgrade_chonky",
         "localization": "Fortitude",
         "tier": 3,
@@ -574,6 +656,7 @@
         "image": "items/mods_armor/revitalizer.png"
     },
     {
+        "id": 865846625,
         "name": "upgrade_damage_recycler",
         "localization": "Leech",
         "tier": 4,
@@ -581,6 +664,7 @@
         "image": "items/mods_armor/leech.png"
     },
     {
+        "id": 0,
         "name": "upgrade_bullet_damage_reduction_aura",
         "localization": "Weapon Jammer",
         "tier": 2,
@@ -588,6 +672,7 @@
         "image": "items/mods_armor/weapon_jammer.png"
     },
     {
+        "id": 3399065363,
         "name": "upgrade_sprint_booster",
         "localization": "Sprint Boots",
         "tier": 1,
@@ -595,6 +680,7 @@
         "image": "items/mods_utility/sprint_booster.png"
     },
     {
+        "id": 2447176615,
         "name": "upgrade_cardio_calibrator",
         "localization": "Enduring Speed",
         "tier": 2,
@@ -602,6 +688,7 @@
         "image": "items/mods_utility/sprint_booster.png"
     },
     {
+        "id": 334300056,
         "name": "upgrade_superior_stamina",
         "localization": "Superior Stamina",
         "tier": 3,
@@ -609,6 +696,7 @@
         "image": "items/mods_armor/superior_stamina.png"
     },
     {
+        "id": 668299740,
         "name": "upgrade_rapid_rounds",
         "localization": "Rapid Rounds",
         "tier": 1,
@@ -616,6 +704,7 @@
         "image": "items/mods_weapon/rapid_rounds.png"
     },
     {
+        "id": 4139877411,
         "name": "upgrade_improved_stamina",
         "localization": "Extra Stamina",
         "tier": 1,
@@ -623,6 +712,7 @@
         "image": "items/mods_armor/improved_stamina.png"
     },
     {
+        "id": 2481177645,
         "name": "upgrade_bullet_armor_reduction_aura",
         "localization": "Hunter's Aura",
         "tier": 3,
@@ -630,6 +720,7 @@
         "image": "items/mods_armor/bullet_armor_reduction_aura.png"
     },
     {
+        "id": 0,
         "name": "upgrade_camouflage",
         "localization": "Camouflage Suit",
         "tier": 2,
@@ -637,6 +728,7 @@
         "image": "items/mods_armor/camouflage_suit.png"
     },
     {
+        "id": 3038950099,
         "name": "upgrade_regenerative_armor",
         "localization": "Regenerative Armor",
         "tier": 2,
@@ -644,6 +736,7 @@
         "image": "items/mods_armor/last_stand.png"
     },
     {
+        "id": 1235347618,
         "name": "upgrade_regenerating_bullet_shield",
         "localization": "Combat Barrier",
         "tier": 2,
@@ -651,6 +744,7 @@
         "image": "items/mods_armor/bullet_shield.png"
     },
     {
+        "id": 3970837787,
         "name": "upgrade_magic_shield",
         "localization": "Enchanter's Barrier",
         "tier": 2,
@@ -658,6 +752,7 @@
         "image": "items/mods_tech/tech_shield_pulse.png"
     },
     {
+        "id": 968099481,
         "name": "upgrade_improved_spirit",
         "localization": "Extra Spirit",
         "tier": 1,
@@ -665,6 +760,7 @@
         "image": "items/mods_tech/tech_damage.png"
     },
     {
+        "id": 7409189,
         "name": "upgrade_soaring_spirit",
         "localization": "Improved Spirit",
         "tier": 3,
@@ -672,6 +768,7 @@
         "image": "items/mods_tech/soaring_spirit.png"
     },
     {
+        "id": 2226497419,
         "name": "upgrade_tech_overflow",
         "localization": "Spiritual Overflow",
         "tier": 4,
@@ -679,6 +776,7 @@
         "image": "items/mods_weapon/magic_overflow.png"
     },
     {
+        "id": 3361075077,
         "name": "upgrade_return_fire",
         "localization": "Return Fire",
         "tier": 2,
@@ -686,6 +784,7 @@
         "image": "items/mods_tech/return_fire.png"
     },
     {
+        "id": 1193964439,
         "name": "upgrade_tech_range",
         "localization": "Improved Reach",
         "tier": 3,
@@ -693,6 +792,7 @@
         "image": "items/mods_tech/spiritual_dominion.png"
     },
     {
+        "id": 754480263,
         "name": "upgrade_magic_reach",
         "localization": "Mystic Reach",
         "tier": 1,
@@ -700,6 +800,7 @@
         "image": "items/mods_tech/tech_range.png"
     },
     {
+        "id": 3776945997,
         "name": "upgrade_extra_charge",
         "localization": "Extra Charge",
         "tier": 1,
@@ -707,6 +808,7 @@
         "image": "items/mods_tech/extra_charge.png"
     },
     {
+        "id": 876563814,
         "name": "upgrade_health_stealing_magic",
         "localization": "Spirit Lifesteal",
         "tier": 2,
@@ -714,6 +816,7 @@
         "image": "items/mods_tech/health_stealing_tech.png"
     },
     {
+        "id": 2645639421,
         "name": "upgrade_disarm",
         "localization": "Drain Will",
         "tier": 1,
@@ -721,6 +824,7 @@
         "image": "items/mods_tech/disarm.png"
     },
     {
+        "id": 2971868509,
         "name": "upgrade_bullet_resist_shredder",
         "localization": "Bullet Resist Shredder",
         "tier": 2,
@@ -728,6 +832,7 @@
         "image": "items/mods_tech/bullet_resist_shredder.png"
     },
     {
+        "id": 869090587,
         "name": "upgrade_tech_bleed",
         "localization": "Mystic Reverb",
         "tier": 4,
@@ -735,6 +840,7 @@
         "image": "items/mods_tech/magic_reverb.png"
     },
     {
+        "id": 1998374645,
         "name": "upgrade_magic_burst",
         "localization": "Mystic Burst",
         "tier": 1,
@@ -742,6 +848,7 @@
         "image": "items/mods_tech/magic_burst.png"
     },
     {
+        "id": 2121044373,
         "name": "upgrade_magic_shock",
         "localization": "Improved Burst",
         "tier": 3,
@@ -749,6 +856,7 @@
         "image": "items/mods_tech/magic_shock.png"
     },
     {
+        "id": 1052584266,
         "name": "upgrade_arcane_medallion",
         "localization": "Arcane Medallion",
         "tier": 3,
@@ -756,6 +864,7 @@
         "image": "items/mods_tech/arcane_medallion.png"
     },
     {
+        "id": 2081037738,
         "name": "upgrade_magic_vulnerability",
         "localization": "Mystic Vulnerability",
         "tier": 2,
@@ -763,6 +872,7 @@
         "image": "items/mods_tech/tech_vulnerability.png"
     },
     {
+        "id": 2603935618,
         "name": "upgrade_healbane",
         "localization": "Healbane",
         "tier": 2,
@@ -770,6 +880,7 @@
         "image": "items/mods_tech/healbane.png"
     },
     {
+        "id": 1102081447,
         "name": "upgrade_magic_slow",
         "localization": "Mystic Slow",
         "tier": 3,
@@ -777,6 +888,7 @@
         "image": "items/mods_tech/slowing_tech.png"
     },
     {
+        "id": 3005970438,
         "name": "upgrade_escalating_exposure",
         "localization": "Escalating Exposure",
         "tier": 4,
@@ -784,6 +896,7 @@
         "image": "items/mods_tech/escalating_exposure.png"
     },
     {
+        "id": 787198704,
         "name": "upgrade_rapid_recharge",
         "localization": "Rapid Recharge",
         "tier": 3,
@@ -791,6 +904,7 @@
         "image": "items/mods_tech/rapid_recharge.png"
     },
     {
+        "id": 380806748,
         "name": "upgrade_magic_tempo",
         "localization": "Improved Cooldown",
         "tier": 2,
@@ -798,6 +912,7 @@
         "image": "items/mods_utility/advanced_recharge.png"
     },
     {
+        "id": 3261353684,
         "name": "upgrade_cooldown_reduction",
         "localization": "Superior Cooldown",
         "tier": 3,
@@ -805,6 +920,7 @@
         "image": "items/mods_tech/spiritual_flow.png"
     },
     {
+        "id": 3789823638,
         "name": "upgrade_duration_extender",
         "localization": "[Deprecated] Duration Extender",
         "tier": 2,
@@ -812,6 +928,7 @@
         "image": "items/mods_tech/tech_duration_extender.png"
     },
     {
+        "id": 0,
         "name": "upgrade_slowing_tech",
         "localization": "Slowing Spirit",
         "tier": 1,
@@ -819,6 +936,7 @@
         "image": "items/mods_tech/slowing_tech.png"
     },
     {
+        "id": 1813726886,
         "name": "upgrade_containment",
         "localization": "Slowing Hex",
         "tier": 2,
@@ -826,6 +944,7 @@
         "image": "items/mods_tech/immobilize.png"
     },
     {
+        "id": 2922054143,
         "name": "upgrade_withering_whip",
         "localization": "Withering Whip",
         "tier": 2,
@@ -833,6 +952,7 @@
         "image": "items/mods_tech/disarm.png"
     },
     {
+        "id": 1804594021,
         "name": "upgrade_rescue_beam",
         "localization": "Rescue Beam",
         "tier": 3,
@@ -840,6 +960,7 @@
         "image": "items/mods_tech/medic_beam.png"
     },
     {
+        "id": 0,
         "name": "upgrade_personal_rejuvenator",
         "localization": "Rebirth",
         "tier": 3,
@@ -847,6 +968,7 @@
         "image": "items/mods_tech/rebirth.png"
     },
     {
+        "id": 4003032160,
         "name": "upgrade_rebirth",
         "localization": "Soul Rebirth",
         "tier": 4,
@@ -854,6 +976,7 @@
         "image": "items/mods_tech/rebirth.png"
     },
     {
+        "id": 0,
         "name": "upgrade_long_range_slowing_tech",
         "localization": "Omni Spirit",
         "tier": 3,
@@ -861,6 +984,7 @@
         "image": "items/mods_tech/tech_range.png"
     },
     {
+        "id": 0,
         "name": "upgrade_full_spectrum",
         "localization": "Full Spectrum",
         "tier": 4,
@@ -868,6 +992,7 @@
         "image": "items/mods_tech/tech_range.png"
     },
     {
+        "id": 4249800570,
         "name": "upgrade_tech_cleave",
         "localization": "Quantum Chimaera",
         "tier": 3,
@@ -875,6 +1000,7 @@
         "image": "items/mods_tech/quantum_chimaera.png"
     },
     {
+        "id": 1288322878,
         "name": "upgrade_bonus_ability_charge_3",
         "localization": "Hyper Charge",
         "tier": 3,
@@ -882,6 +1008,7 @@
         "image": "items/mods_tech/extra_charge.png"
     },
     {
+        "id": 4245766497,
         "name": "upgrade_charge_mastery",
         "localization": "Charge Mastery",
         "tier": 4,
@@ -889,6 +1016,7 @@
         "image": "items/mods_tech/extra_charge.png"
     },
     {
+        "id": 3144988365,
         "name": "upgrade_rupture",
         "localization": "Decay",
         "tier": 2,
@@ -896,6 +1024,7 @@
         "image": "items/mods_tech/rupture.png"
     },
     {
+        "id": 0,
         "name": "upgrade_discord",
         "localization": "Discord",
         "tier": 4,
@@ -903,6 +1032,7 @@
         "image": "items/mods_tech/rupture.png"
     },
     {
+        "id": 0,
         "name": "upgrade_aoe_tech_shield",
         "localization": "Spirit Barrier Pulse",
         "tier": 2,
@@ -910,6 +1040,7 @@
         "image": "items/mods_tech/tech_shield_pulse.png"
     },
     {
+        "id": 1254091416,
         "name": "upgrade_target_stun",
         "localization": "Knockdown",
         "tier": 3,
@@ -917,6 +1048,7 @@
         "image": "items/mods_tech/knockdown.png"
     },
     {
+        "id": 1371725689,
         "name": "upgrade_phantom_strike",
         "localization": "Phantom Strike",
         "tier": 4,
@@ -924,6 +1056,7 @@
         "image": "items/mods_armor/phantom_strike.png"
     },
     {
+        "id": 3270001687,
         "name": "upgrade_warp_stone",
         "localization": "Warp Stone",
         "tier": 3,
@@ -931,6 +1064,7 @@
         "image": "items/mods_weapon/warp_stone.png"
     },
     {
+        "id": 1152158042,
         "name": "upgrade_aoe_root",
         "localization": "Vacuum Web",
         "tier": 4,
@@ -938,6 +1072,7 @@
         "image": "items/mods_tech/area_immobilize.png"
     },
     {
+        "id": 677738769,
         "name": "upgrade_ability_refresher",
         "localization": "Refresher",
         "tier": 4,
@@ -945,6 +1080,7 @@
         "image": "items/mods_tech/refresher_module.png"
     },
     {
+        "id": 630839635,
         "name": "upgrade_ability_power_shard",
         "localization": "Echo Shard",
         "tier": 4,
@@ -952,6 +1088,7 @@
         "image": "items/mods_tech/echo_shard.png"
     },
     {
+        "id": 395944548,
         "name": "upgrade_tech_damage_pulse",
         "localization": "Torment Pulse",
         "tier": 3,
@@ -959,6 +1096,7 @@
         "image": "items/mods_tech/torment_aura.png"
     },
     {
+        "id": 0,
         "name": "upgrade_cheat_death",
         "localization": "Cheat Death",
         "tier": 4,
@@ -966,6 +1104,7 @@
         "image": "items/mods_tech/torment_aura.png"
     },
     {
+        "id": 3276909180,
         "name": "upgrade_reload_speed",
         "localization": "Fast Reload",
         "tier": 2,
@@ -973,6 +1112,7 @@
         "image": "items/mods_utility/fast_reload.png"
     },
     {
+        "id": 2560018361,
         "name": "upgrade_cloaking_device",
         "localization": "Cloaking Device",
         "tier": 3,
@@ -980,6 +1120,7 @@
         "image": "items/mods_utility/cloaking_device.png"
     },
     {
+        "id": 1798666702,
         "name": "upgrade_cloaking_device_active",
         "localization": "Shadow Weave",
         "tier": 4,
@@ -987,6 +1128,7 @@
         "image": "items/mods_utility/cloaking_device.png"
     },
     {
+        "id": 2382983502,
         "name": "upgrade_zipine_mastery",
         "localization": "Zip Line Mastery",
         "tier": 3,
@@ -994,6 +1136,7 @@
         "image": "items/mods_utility/zipline_mastery.png"
     },
     {
+        "id": 3662153307,
         "name": "upgrade_fire_rate_aura",
         "localization": "Fire Rate Aura",
         "tier": 2,
@@ -1001,6 +1144,7 @@
         "image": "items/mods_utility/fire_rate_aura.png"
     },
     {
+        "id": 607292868,
         "name": "upgrade_weapon_overdrive_clip",
         "localization": "Overdrive Clip",
         "tier": 3,
@@ -1008,6 +1152,7 @@
         "image": "items/mods_armor/overdrive.png"
     },
     {
+        "id": 0,
         "name": "upgrade_rocket_boots",
         "localization": "Majestic Leap - Disabled",
         "tier": 3,
@@ -1015,6 +1160,7 @@
         "image": "items/mods_utility/springy_boots.png"
     },
     {
+        "id": 600033864,
         "name": "upgrade_rocket_booster",
         "localization": "Majestic Leap",
         "tier": 3,
@@ -1022,6 +1168,7 @@
         "image": "abilities/lash/lash_death_slam.png"
     },
     {
+        "id": 271801138,
         "name": "upgrade_aerial_assault",
         "localization": "Aerial Assault",
         "tier": 4,
@@ -1029,6 +1176,7 @@
         "image": "items/mods_utility/springy_boots.png"
     },
     {
+        "id": 2956256701,
         "name": "upgrade_health_nova",
         "localization": "Health Nova",
         "tier": 2,
@@ -1036,6 +1184,7 @@
         "image": "items/mods_utility/health_nova.png"
     },
     {
+        "id": 2059712766,
         "name": "upgrade_restorative_locket",
         "localization": "Restorative Locket",
         "tier": 2,
@@ -1043,6 +1192,7 @@
         "image": "items/mods_armor/restorative_locket.png"
     },
     {
+        "id": 1710079648,
         "name": "upgrade_health_stimpak",
         "localization": "Healing Rite",
         "tier": 1,
@@ -1050,6 +1200,7 @@
         "image": "items/mods_armor/stimpak.png"
     },
     {
+        "id": 1797283378,
         "name": "upgrade_infuser",
         "localization": "Infuser",
         "tier": 1,
@@ -1057,6 +1208,7 @@
         "image": "items/mods_tech/infuser.png"
     },
     {
+        "id": 3147316197,
         "name": "upgrade_savior",
         "localization": "Divine Barrier",
         "tier": 2,
@@ -1064,6 +1216,7 @@
         "image": "items/mods_armor/savior.png"
     },
     {
+        "id": 937242723,
         "name": "upgrade_aoe_smoke_bomb",
         "localization": "Smoke",
         "tier": 3,
@@ -1071,6 +1224,7 @@
         "image": "items/mods_utility/smoke.png"
     },
     {
+        "id": 1932939246,
         "name": "upgrade_thermal_detonator",
         "localization": "Alchemical Fire",
         "tier": 3,
@@ -1078,6 +1232,7 @@
         "image": "items/mods_weapon/thermal_detonator.png"
     },
     {
+        "id": 3403085434,
         "name": "upgrade_fleetfoot_boots",
         "localization": "Fleetfoot",
         "tier": 2,
@@ -1085,6 +1240,7 @@
         "image": "items/mods_weapon/fleetfoot_boots.png"
     },
     {
+        "id": 3977876567,
         "name": "upgrade_kinetic_sash",
         "localization": "Kinetic Dash",
         "tier": 2,
@@ -1092,6 +1248,7 @@
         "image": "items/mods_weapon/kinetic_sash.png"
     },
     {
+        "id": 389243496,
         "name": "upgrade_weapon_eater",
         "localization": "Weapon Eater",
         "tier": 2,
@@ -1099,6 +1256,7 @@
         "image": "items/mods_weapon/advanced_weaponry.png"
     },
     {
+        "id": 315518818,
         "name": "upgrade_weapon_instant_reload",
         "localization": "Reloader + Huge Clip",
         "tier": 3,
@@ -1106,6 +1264,7 @@
         "image": "items/mods_utility/fast_reload.png"
     },
     {
+        "id": 1947620709,
         "name": "upgrade_tech_defender",
         "localization": "Tech Defender",
         "tier": 4,
@@ -1113,6 +1272,7 @@
         "image": "items/mods_armor/tech_defender.png"
     },
     {
+        "id": 3357231760,
         "name": "upgrade_unstoppable",
         "localization": "Unstoppable",
         "tier": 4,
@@ -1120,6 +1280,7 @@
         "image": "items/mods_armor/unstoppable.png"
     },
     {
+        "id": 2407781327,
         "name": "upgrade_colossus",
         "localization": "Colossus",
         "tier": 4,
@@ -1127,6 +1288,7 @@
         "image": "items/mods_armor/colossus.png"
     },
     {
+        "id": 1976391348,
         "name": "upgrade_cold_front",
         "localization": "Cold Front",
         "tier": 2,
@@ -1134,6 +1296,7 @@
         "image": "items/mods_utility/ice_blast.png"
     },
     {
+        "id": 0,
         "name": "upgrade_aoe_silence",
         "localization": "EMP Grenade",
         "tier": 3,
@@ -1141,6 +1304,7 @@
         "image": "items/mods_utility/emp_wave.png"
     },
     {
+        "id": 2533252781,
         "name": "upgrade_self_bubble",
         "localization": "Ethereal Shift",
         "tier": 3,
@@ -1148,6 +1312,7 @@
         "image": "items/mods_tech/shifting_shroud.png"
     },
     {
+        "id": 0,
         "name": "upgrade_stasis_bomb",
         "localization": "Stasis Bomb",
         "tier": 4,
@@ -1155,6 +1320,7 @@
         "image": "items/mods_utility/stasis.png"
     },
     {
+        "id": 0,
         "name": "upgrade_quarantine",
         "localization": "Quarantine",
         "tier": 2,
@@ -1162,6 +1328,7 @@
         "image": "items/mods_utility/stasis.png"
     },
     {
+        "id": 2617435668,
         "name": "upgrade_glitch",
         "localization": "Curse",
         "tier": 4,
@@ -1169,6 +1336,7 @@
         "image": "items/mods_tech/glitch.png"
     },
     {
+        "id": 0,
         "name": "upgrade_imbued_ability",
         "localization": "Imbued Ability",
         "tier": 4,
@@ -1176,6 +1344,7 @@
         "image": "items/mods_tech/tech_damage.png"
     },
     {
+        "id": 2951612397,
         "name": "upgrade_arcane_extension",
         "localization": "Duration Extender",
         "tier": 2,
@@ -1183,6 +1352,7 @@
         "image": "items/mods_tech/duration_extender.png"
     },
     {
+        "id": 2717651715,
         "name": "upgrade_imbued_duration_extender",
         "localization": "Superior Duration",
         "tier": 3,
@@ -1190,6 +1360,7 @@
         "image": "items/mods_tech/arcane_persistance.png"
     },
     {
+        "id": 365620721,
         "name": "upgrade_glass_cannon",
         "localization": "Glass Cannon",
         "tier": 4,
@@ -1197,6 +1368,7 @@
         "image": "items/mods_weapon/glass_cannon.png"
     },
     {
+        "id": 1055679805,
         "name": "upgrade_surging_power",
         "localization": "Vampiric Burst",
         "tier": 4,
@@ -1204,6 +1376,7 @@
         "image": "items/mods_weapon/vampiric_burst.png"
     },
     {
+        "id": 0,
         "name": "upgrade_mod_disruptor",
         "localization": "Soul Disruptor",
         "tier": 4,
@@ -1211,6 +1384,7 @@
         "image": "items/mods_weapon/thermal_detonator.png"
     },
     {
+        "id": 2039312305,
         "name": "upgrade_frenzy",
         "localization": "upgrade_frenzy",
         "tier": 4,
@@ -1218,6 +1392,7 @@
         "image": "items/mods_armor/health_stealing_bullets.png"
     },
     {
+        "id": 253917113,
         "name": "upgrade_burst_fire_actuator",
         "localization": "Burst Fire Actuator",
         "tier": 2,
@@ -1225,6 +1400,7 @@
         "image": "items/mods_utility/fast_reload.png"
     },
     {
+        "id": 1252627263,
         "name": "upgrade_boxing_glove",
         "localization": "Lifestrike",
         "tier": 3,
@@ -1232,6 +1408,7 @@
         "image": "items/mods_armor/boxing_glove.png"
     },
     {
+        "id": 465043967,
         "name": "upgrade_acolytes_glove",
         "localization": "Spirit Strike",
         "tier": 1,
@@ -1239,6 +1416,7 @@
         "image": "items/mods_tech/acolytes_glove.png"
     },
     {
+        "id": 26002154,
         "name": "upgrade_melee_charge",
         "localization": "Melee Charge",
         "tier": 2,
@@ -1246,6 +1424,7 @@
         "image": "items/mods_weapon/melee_charge.png"
     },
     {
+        "id": 0,
         "name": "upgrade_charmed_wraps",
         "localization": "Charmed Wraps",
         "tier": 2,
@@ -1253,6 +1432,7 @@
         "image": "items/mods_tech/charmed_wraps.png"
     },
     {
+        "id": 0,
         "name": "upgrade_belt_fed_magazine",
         "localization": "Belt-Fed Magazine",
         "tier": 4,
@@ -1260,6 +1440,7 @@
         "image": "items/mods_weapon/auto_reloader.png"
     },
     {
+        "id": 2820116164,
         "name": "upgrade_diviners_kevlar",
         "localization": "Diviner's Kevlar",
         "tier": 4,
@@ -1267,6 +1448,7 @@
         "image": "items/mods_armor/bullet_shield.png"
     },
     {
+        "id": 2672389724,
         "name": "upgrade_stabilizing_tripod",
         "localization": "Stabilizing Tripod",
         "tier": 3,
@@ -1274,6 +1456,7 @@
         "image": "items/mods_utility/base_utility.png"
     },
     {
+        "id": 3612042342,
         "name": "upgrade_mega_spirit",
         "localization": "Boundless Spirit",
         "tier": 4,
@@ -1281,6 +1464,7 @@
         "image": "items/mods_tech/boundless_spirit.png"
     },
     {
+        "id": 2739107182,
         "name": "upgrade_burst_fire",
         "localization": "Burst Fire Actuator",
         "tier": 3,
@@ -1288,6 +1472,7 @@
         "image": "items/mods_weapon/fire_rate_plus_plus.png"
     },
     {
+        "id": 558396679,
         "name": "upgrade_resilience",
         "localization": "Enduring Spirit",
         "tier": 1,
@@ -1295,6 +1480,7 @@
         "image": "items/mods_armor/resilience.png"
     },
     {
+        "id": 2829638276,
         "name": "upgrade_endurance",
         "localization": "Extra Regen",
         "tier": 1,
@@ -1302,6 +1488,7 @@
         "image": "items/mods_armor/endurance.png"
     },
     {
+        "id": 2985482185,
         "name": "upgrade_magic_clarity",
         "localization": "Clarity",
         "tier": 2,
@@ -1309,6 +1496,7 @@
         "image": "items/mods_tech/clarity.png"
     },
     {
+        "id": 1292979587,
         "name": "upgrade_magic_storm",
         "localization": "Surge of Power",
         "tier": 3,
@@ -1316,6 +1504,7 @@
         "image": "items/mods_tech/magic_storm.png"
     },
     {
+        "id": 1925087134,
         "name": "upgrade_suppressor",
         "localization": "Suppressor",
         "tier": 2,
@@ -1323,6 +1512,7 @@
         "image": "items/mods_armor/weapon_jammer.png"
     },
     {
+        "id": 84321454,
         "name": "upgrade_quick_silver",
         "localization": "Quicksilver Reload",
         "tier": 2,
@@ -1330,6 +1520,7 @@
         "image": "items/mods_weapon/fire_rate_plus.png"
     },
     {
+        "id": 2717142638,
         "name": "upgrade_arcane_eater",
         "localization": "Arcane Eater",
         "tier": 2,
@@ -1337,6 +1528,7 @@
         "image": "items/mods_weapon/arcane_eater.png"
     },
     {
+        "id": 2574520834,
         "name": "upgrade_predator_precision",
         "localization": "Predator Precision",
         "tier": 2,
@@ -1344,6 +1536,7 @@
         "image": "items/mods_weapon/close_range.png"
     },
     {
+        "id": 2407033488,
         "name": "upgrade_intensifying_clip",
         "localization": "Intensifying Magazine",
         "tier": 3,
@@ -1351,6 +1544,7 @@
         "image": "items/mods_weapon/auto_reloader.png"
     },
     {
+        "id": 2463960640,
         "name": "upgrade_reinforcing_casings",
         "localization": "Escalating Resilience",
         "tier": 3,
@@ -1358,6 +1552,7 @@
         "image": "items/mods_armor/bullet_armor_plus.png"
     },
     {
+        "id": 4104549924,
         "name": "upgrade_blitz_bullets",
         "localization": "Swift Striker",
         "tier": 2,
@@ -1365,6 +1560,7 @@
         "image": "items/mods_weapon/fire_rate_plus.png"
     },
     {
+        "id": 865958998,
         "name": "upgrade_veil_walker",
         "localization": "Veil Walker",
         "tier": 3,
@@ -1372,6 +1568,7 @@
         "image": "items/mods_utility/veil_walker.png"
     },
     {
+        "id": 1644605047,
         "name": "upgrade_vex_barrier",
         "localization": "Reactive Barrier",
         "tier": 2,
@@ -1379,6 +1576,7 @@
         "image": "items/mods_armor/last_stand.png"
     },
     {
+        "id": 3862866912,
         "name": "upgrade_medic_bullets",
         "localization": "Restorative Shot",
         "tier": 1,
@@ -1386,6 +1584,7 @@
         "image": "items/mods_weapon/medic_bullets.png"
     },
     {
+        "id": 2356412290,
         "name": "upgrade_titan_round",
         "localization": "Titanic Magazine",
         "tier": 3,
@@ -1393,6 +1592,7 @@
         "image": "items/mods_weapon/titanic_magazine.png"
     },
     {
+        "id": 381961617,
         "name": "upgrade_active_reload",
         "localization": "Active Reload",
         "tier": 2,
@@ -1400,6 +1600,7 @@
         "image": "items/mods_utility/deployable_bullet_shield.png"
     },
     {
+        "id": 2800629741,
         "name": "upgrade_magic_carpet",
         "localization": "Magic Carpet",
         "tier": 4,

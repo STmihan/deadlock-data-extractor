@@ -6,6 +6,14 @@ from DataTypes import Item, ItemType
 
 LOC_PATH_GC = "data/citadel_gc_english.txt"
 ITEMS_VDATA_PATH = "data/vdata/abilities.vdata.json"
+STRINGMAP_PATH = "data/stringmap.json"
+
+def extract_id_by_name(name: str) -> str:
+    json_map = json.loads(Path(STRINGMAP_PATH).read_text())
+    for id, str_name in json_map.items():
+        if str_name == name:
+            return id
+    return "0"
 
 def extract_localization_item(item: str) -> str:
     with open(f"./{LOC_PATH_GC}", "r", encoding="utf-8") as f:
@@ -42,6 +50,7 @@ def create_items_json():
                 item_image = item_image.replace("file://{images}/hud/abilities/", "abilities/")
                 item_image = item_image.replace(".psd", ".png")
             items.append({
+                "id": int(extract_id_by_name(item)),
                 "name": item,
                 "localization": extract_localization_item(item),
                 "tier": item_tier,

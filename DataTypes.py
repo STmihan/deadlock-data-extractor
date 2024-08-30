@@ -7,7 +7,7 @@ class ItemType(str, Enum):
     TECH = "tech"
 
 class Item(TypedDict):
-    # id: int # TODO: Find a way to get the id
+    id: int
     name: str
     localization: str
     image: str
@@ -15,7 +15,7 @@ class Item(TypedDict):
     type: ItemType
 
 class Ability(TypedDict):
-    # id: int # TODO: Find a way to get the id
+    id: int
     name: str
     image: str
     localization: str

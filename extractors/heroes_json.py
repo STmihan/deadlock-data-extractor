@@ -8,8 +8,14 @@ LOC_PATH_HEROES = "data/citadel_heroes_english.txt"
 LOC_PATH_GC = "data/citadel_gc_english.txt"
 ABILITIES_VDATA_PATH = "data/vdata/abilities.vdata.json"
 HEROES_VDATA_PATH = "data/vdata/heroes.vdata.json"
+STRINGMAP_PATH = "data/stringmap.json"
 
-
+def extract_id_by_name(name: str) -> str:
+    json_map = json.loads(Path(STRINGMAP_PATH).read_text())
+    for id, str_name in json_map.items():
+        if str_name == name:
+            return id
+    return "0"
 
 def extract_localization_ability(ability: str) -> str:
     with open(f"./{LOC_PATH_HEROES}", "r", encoding="utf-8") as f:
@@ -43,6 +49,7 @@ def create_heroes_json():
                 "m_eAbilityType" in ability_data and \
                     (ability_data["m_eAbilityType"] == "EAbilityType_Ultimate" or ability_data["m_eAbilityType"] == "EAbilityType_Signature"):
             abilities.append({
+                "id": int(extract_id_by_name(ability)),
                 "name": ability,
                 "image": ability_data["m_strAbilityImage"].replace("file://{images}/hud/abilities", "abilities").replace(".psd", ".png"),
                 "localization": extract_localization_ability(ability),
